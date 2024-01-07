@@ -16,6 +16,8 @@ role: An under
 organizations:
   - name: Huaiyin Institute of Technology
 
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
+
 # Interests to show in About widget
 interests:
   - Computer Vision
@@ -25,7 +27,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: B.Eng. in M
+    - course: B.Eng. in Mww
       institution: Huaiyin Institute of Technology
       year: 2019-Present
 # Social/Academic Networking
