@@ -29,7 +29,7 @@ education:
   courses:
     - course: B.Eng. in Mww
       institution: Huaiyin Institute of Technology
-      year: 2019-2023
+      year: 2019-Present
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the

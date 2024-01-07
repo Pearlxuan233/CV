@@ -53,7 +53,7 @@ sections:
           **A lightweight SAR ship detector using end to end image preprocessing network and channel feature guided spatial pyramid pooling**
         
           *IEEE Geoscience and Remote Sensing Letters, 2024.* (Resubmitted after revision)
-  - 
+
         - Yimin Zhang, **<u>Chuxuan Chen</u>**, Ronglin Hu, Yongtao Yu
         
           **ESarDet: An Efficient SAR Ship Detection Method Based on Context Information and Large Effective Receptive Field**
