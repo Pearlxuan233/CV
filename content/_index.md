@@ -48,23 +48,25 @@ sections:
     content:
       title: Publications
       text: |-
-        - **<u>Yimin Zhang</u>**, Chuxuan Chen, Ronglin Hu, Yongtao Yu
+        - **<u>Chuxuan Chen</u>**, Yimin Zhang, Ronglin Hu, Yongtao Yu
+        
+          **A lightweight SAR ship detector using end to end image preprocessing network and channel feature guided spatial pyramid pooling**
+        
+          *IEEE Geoscience and Remote Sensing Letters, 2024.* (Resubmitted after revision)
+  - 
+        - Yimin Zhang, **<u>Chuxuan Chen</u>**, Ronglin Hu, Yongtao Yu
         
           **ESarDet: An Efficient SAR Ship Detection Method Based on Context Information and Large Effective Receptive Field**
         
-          *Remote Sening, 2023.* (SCI, JCR Q1, IF=5.0) [[DOI]](https://www.mdpi.com/2072-4292/15/12/3018) [[Github]](https://github.com/ZYMCCX/ESarDet)
+          *Remote Sening, 2023.* [[DOI]](https://www.mdpi.com/2072-4292/15/12/3018) [[Github]](https://github.com/ZYMCCX/ESarDet)
         
         - **<u>Yimin Zhang</u>**, Chuxuan Chen, Ronglin Hu
         
           **YOLO-BTM: A Novel Shuttlecock Detection Method for Embedded Badminton Robots**
         
-          *International Conference on Automation, Robotics and Computer Engineering, 2022.* (EI, Oral) [[DOI]](https://ieeexplore.ieee.org/abstract/document/10046579)
+          *International Conference on Automation, Robotics and Computer Engineering, 2022.* (Oral) [[DOI]](https://ieeexplore.ieee.org/abstract/document/10046579)
         
-        - Chuxuan Chen, **<u>Yimin Zhang</u>** (Co-first author), Ronglin Hu, Yongtao Yu
-        
-          **A lightweight SAR ship detector using end to end image preprocessing network and channel feature guided spatial pyramid pooling**
-        
-          *IEEE Geoscience and Remote Sensing Letters, 2024.* (SCI, JCR Q1, IF=4.8) (Undergoing review)
+
         
     design:
       columns: '1'
@@ -125,8 +127,8 @@ sections:
           company_url: ''
           company_logo: uni-hyit
           location: Huaian, China
-          date_start: '2019-09-01'
-          date_end: '2023-06-17'
+          date_start: '2020-09-01'
+          date_end: ''
           description: Majoring in Software Engineering. During his undergraduate studies, he learned some basic knowledge about computer science and software engineering, such as principle of computer composition, artificial intelligence, and data visualization techniques.
     design:
       columns: '1'

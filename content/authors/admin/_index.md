@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yimin Zhang
+title: Chuxuan Chen
 
 # Status emoji
 status:
@@ -10,14 +10,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: AI application engineer
+role: An under
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Shanghai Golden Bridge InfoTech Company
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+  - name: Huaiyin Institute of Technology
 
 # Interests to show in About widget
 interests:
@@ -28,9 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: B.Eng. in Software Engineering
+    - course: B.Eng. in M
       institution: Huaiyin Institute of Technology
-      year: 2019-2023
+      year: 2019-Present
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -38,10 +35,10 @@ education:
 social:
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
-    link: https://scholar.google.com/citations?hl=en&user=g6rbG3QAAAAJ
+    link: https://scholar.google.com/citations?user=RAM2AUQAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/ZYMCCX
+    link: https://github.com/Pearlxuan233
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
