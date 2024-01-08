@@ -21,15 +21,16 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
   - Computer Vision
-  - Machine Learning
+  - Deep Learning
   - Artificial Intelligence
+  - Intelligent Manufacturing
 
 # Education to show in About widget
 education:
   courses:
-    - course: B.Eng. in Mww
+    - course: B.Eng. in Mechanical design, manufacturing and automation
       institution: Huaiyin Institute of Technology
-      year: 2019-Present
+      year: 2020-Present
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -52,6 +53,6 @@ social:
 highlight_name: true
 ---
 
-Yimin Zhang is now an AI application engineer in [Shanghai Golden Bridge InfoTech Company](http://www.shgbit.com/) supervised by Xinchen Zhang. Before that, he received the bachelor degree of software engineering from [Huaiyin Institute of Technology](https://www.hyit.edu.cn/) in 2023, where he is supervised by [Assoc. Prof. Ronglin Hu](https://gd.hyit.edu.cn/zszq/dsjj/hxgc/dsjyszhg/hrl.htm) and [Assoc. Prof. Yongtao Yu](https://scholar.google.cz/citations?user=sY1AFdAAAAAJ&hl=zh-CN). The title of his graduation thesis is "Research on real-time synthetic aperture radar ship detection in complex scenes".
+Chen Chuxuan is now an undergraduate at [Huaiyin Institute of Technology](https://www.hyit.edu.cn/), and she is also an intern at Nanjing Iron and Steel Group Co(http://www.njsteel.com.cn/). During undergraduate studies, she joined the Artificial Intelligence Laboratory supervised by [Assoc. Prof. Ronglin Hu](https://gd.hyit.edu.cn/zszq/dsjj/hxgc/dsjyszhg/hrl.htm) and [Assoc. Prof. Yongtao Yu](https://scholar.google.cz/citations?user=sY1AFdAAAAAJ&hl=zh-CN), and participated in projects such as SAR ship detection and metal surface defect detection. Currently, she is working on her graduation project, which is "Research and Application of Algorithm for Visual Inspection of Complex and Small Defects on Metal Parts".
 {style="text-align: justify;"}
 
