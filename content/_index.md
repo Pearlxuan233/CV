@@ -76,8 +76,9 @@ sections:
       title: Awards
       subtitle:
       text: |- 
-        - **Outstanding Graduation Thesis** of Huaiyin Institute of Technology
-        - **Outstanding Graduate** of Huaiyin Institute of Technology
+        - **Second-class scholarship** of Academic Excellence, Huaiyin Institute of Technology
+        - Excellent Student Award in Academics, Huaiyin Institute of Technology
+        - Third-class scholarship of Academic Excellence, Huaiyin Institute of Technology
         - **Merit Prize** of Chinese Collegiate Computing Competition, Jiangsu Province (team leader)
         - **Third Prize** of "Challenge Cup" National College Student Curricular Academic Science and Technology Works Competition (team leader)
         - **Third Prize** of the C++ Category of the "Lanqiao Cup", Jiangsu Province
