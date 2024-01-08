@@ -54,13 +54,13 @@ sections:
         
           *IEEE Geoscience and Remote Sensing Letters, 2024.* (Resubmitted after revision)
 
-        - Yimin Zhang, **<u>Chuxuan Chen</u>**, Ronglin Hu, Yongtao Yu
+        - Yimin Zhang, **<u>Chuxuan Chen</u>**(Co-first author), Ronglin Hu, Yongtao Yu
         
           **ESarDet: An Efficient SAR Ship Detection Method Based on Context Information and Large Effective Receptive Field**
         
           *Remote Sening, 2023.* [[DOI]](https://www.mdpi.com/2072-4292/15/12/3018) [[Github]](https://github.com/ZYMCCX/ESarDet)
         
-        - **<u>Yimin Zhang</u>**, Chuxuan Chen, Ronglin Hu
+        - Yimin Zhang, **<u>Chuxuan Chen</u>**(Co-first author), Ronglin Hu
         
           **YOLO-BTM: A Novel Shuttlecock Detection Method for Embedded Badminton Robots**
         
