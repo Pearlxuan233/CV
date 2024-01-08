@@ -53,6 +53,6 @@ social:
 highlight_name: true
 ---
 
-Chen Chuxuan is now an undergraduate at [Huaiyin Institute of Technology](https://www.hyit.edu.cn/), and she is also an intern at Nanjing Iron and Steel Group Co(http://www.njsteel.com.cn/). During undergraduate studies, she joined the Artificial Intelligence Laboratory supervised by [Assoc. Prof. Ronglin Hu](https://gd.hyit.edu.cn/zszq/dsjj/hxgc/dsjyszhg/hrl.htm) and [Assoc. Prof. Yongtao Yu](https://scholar.google.cz/citations?user=sY1AFdAAAAAJ&hl=zh-CN), and participated in projects such as SAR ship detection and metal surface defect detection. Currently, she is working on her graduation project, which is "Research and Application of Algorithm for Visual Inspection of Complex and Small Defects on Metal Parts".
+Chen Chuxuan is now an undergraduate at [Huaiyin Institute of Technology](https://www.hyit.edu.cn/), and she is also an intern at [Nanjing Iron and Steel Group Co](http://www.njsteel.com.cn/). During undergraduate studies, she joined the Artificial Intelligence Laboratory supervised by [Assoc. Prof. Ronglin Hu](https://gd.hyit.edu.cn/zszq/dsjj/hxgc/dsjyszhg/hrl.htm) and [Assoc. Prof. Yongtao Yu](https://scholar.google.cz/citations?user=sY1AFdAAAAAJ&hl=zh-CN), and participated in projects such as SAR ship detection and metal surface defect detection. Currently, she is working on her graduation project, which is "Research and Application of Algorithm for Visual Inspection of Complex and Small Defects on Metal Parts".
 {style="text-align: justify;"}
 
