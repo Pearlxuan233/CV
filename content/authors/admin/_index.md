@@ -12,9 +12,6 @@ superuser: true
 # Role/position/tagline
 role: An undergraduate of Huaiyin Institute of Technology
 
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Huaiyin Institute of Technology, Intelligent Technology Laboratory in the School of Computer Science
 
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
