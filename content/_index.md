@@ -99,8 +99,8 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: AI application engineer
-          company: Nanjing Iron and Steel Group Co (Mentored by  Weiffeng Zhang)
+        - title: Smart Manufacturing Technology Intern, Facilities Division
+          company: Nanjing Iron and Steel Group Co (Mentored by  Weifeng Zhang)
           company_url: ''
           company_logo: NISCO
           location: Nanjing, China
