@@ -108,7 +108,7 @@ sections:
           date_end: ''
           description: |2-
               Responsible for projects include:
-              * 
+              * Inspection of steel surface defects
         - title: Research assistant
           company: Intelligent Technology Lab (Supervised by Assoc. Prof. Ronglin Hu and Assoc. Prof. Yongtao Yu)
           company_url: ''
