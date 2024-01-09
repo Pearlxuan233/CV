@@ -104,7 +104,7 @@ sections:
           company_url: ''
           company_logo: NISCO
           location: Nanjing, China
-          date_start: '2024-01'
+          date_start: '2024-01-01'
           date_end: ''
           description: |2-
               Responsible for projects include:
