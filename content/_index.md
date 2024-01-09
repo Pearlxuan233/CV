@@ -79,11 +79,11 @@ sections:
         - **Second-class scholarship** of Academic Excellence, Huaiyin Institute of Technology
         - **Excellent Student Award in Academics**, Huaiyin Institute of Technology
         - **Third-class scholarship** of Academic Excellence, Huaiyin Institute of Technology
-        - **Merit Prize** of Chinese Collegiate Computing Competition, Jiangsu Province (team leader)
-        - **Third Prize** of "Challenge Cup" National College Student Curricular Academic Science and Technology Works Competition (team leader)
-        - **Third Prize** of the C++ Category of the "Lanqiao Cup", Jiangsu Province
-        - **Second-class scholarship** of Academic Excellence, Huaiyin Institute of Technology
         - **Third-class scholarship** of Academic Excellence, Huaiyin Institute of Technology
+        - **Winning Award** in Jiangsu Province of China Undergraduate Computer Design Competition
+        - **Certificate of National** Business English Translation Test (Intermediate-level Translator)
+        - **Pass with merit in the English Test** for International Communication (Intermediate)	
+        - **Second Prize** for Band C in 2020 National English Competition for College Students
     design:
       columns: '1'
   - block: experience
