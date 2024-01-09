@@ -77,13 +77,13 @@ sections:
       subtitle:
       text: |- 
         - **Second-class scholarship** of Academic Excellence, Huaiyin Institute of Technology
-        - Excellent Student Award in Academics, Huaiyin Institute of Technology
-        - Third-class scholarship of Academic Excellence, Huaiyin Institute of Technology
+        - **Excellent Student Award in Academics**, Huaiyin Institute of Technology
+        - **Third-class scholarship** of Academic Excellence, Huaiyin Institute of Technology
         - **Merit Prize** of Chinese Collegiate Computing Competition, Jiangsu Province (team leader)
         - **Third Prize** of "Challenge Cup" National College Student Curricular Academic Science and Technology Works Competition (team leader)
         - **Third Prize** of the C++ Category of the "Lanqiao Cup", Jiangsu Province
-        - **Second-class** scholarship of Academic Excellence, Huaiyin Institute of Technology
-        - **Third-class** scholarship of Academic Excellence, Huaiyin Institute of Technology
+        - **Second-class scholarship** of Academic Excellence, Huaiyin Institute of Technology
+        - **Third-class scholarship** of Academic Excellence, Huaiyin Institute of Technology
     design:
       columns: '1'
   - block: experience
@@ -100,29 +100,27 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: AI application engineer
-          company: R&D Center (Changzhou) of Shanghai Golden Bridge InfoTech Co., Ltd. (Mentored by  Xinchen Zhang)
+          company: Nanjing Iron and Steel Group Co (Mentored by  Weiffeng Zhang)
           company_url: ''
-          company_logo: com-shgbit
-          location: Changzhou, China
-          date_start: '2023-06-20'
+          company_logo: NISCO
+          location: Nanjing, China
+          date_start: '2024-01'
           date_end: ''
           description: |2-
               Responsible for projects include:
-              * The multimodal in-class status classification method based on audio and visual features
-              * Professor tracking based on human pose estimation
-              * Knowledge base question answering with large language models based on LangChian and ChatGLM
+              * 
         - title: Research assistant
           company: Intelligent Technology Lab (Supervised by Assoc. Prof. Ronglin Hu and Assoc. Prof. Yongtao Yu)
           company_url: ''
           company_logo: lab_hu
           location: Huaian, China
-          date_start: '2020-01-04'
+          date_start: '2020-11-07'
           date_end: ''
           description: |2-
               Research topics include:
+              * Research and Application of Algorithm for Visual Inspection of Complex and Small Defects on Metal Parts
               * Real-time synthetic aperture radar ship detection algorithm research in complex scenes
               * The vision system design for a monocular vision-based badminton robot
-              * Deployment of a facial recognition algorithm based on MTCNN and FaceNet
         - title: Undergraduate student
           company: Huaiyin Institute of Technology
           company_url: ''
@@ -130,7 +128,7 @@ sections:
           location: Huaian, China
           date_start: '2020-09-01'
           date_end: ''
-          description: Majoring in Software Engineering. During his undergraduate studies, he learned some basic knowledge about computer science and software engineering, such as principle of computer composition, artificial intelligence, and data visualization techniques.
+          description: Majoring in Mechanical design, manufacturing and automation. During her undergraduate studies, he learned some basic knowledge about Mechanical design and manufacturing, also learned automation technology utilized in the field of smart manufacturing, such as artificial intelligence, robotic technology, and data visualization techniques.
     design:
       columns: '1'
 ---
