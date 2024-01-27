@@ -52,13 +52,13 @@ sections:
         
           **A lightweight SAR ship detector using end to end image preprocessing network and channel feature guided spatial pyramid pooling**
         
-          *IEEE Geoscience and Remote Sensing Letters, 2024.* [[DOI]](https://ieeexplore.ieee.org/document/10415050) [[Github]](https://github.com/ZYMCCX/ESarDet)
+          *IEEE Geoscience and Remote Sensing Letters, 2024.* [[DOI]](https://ieeexplore.ieee.org/document/10415050) [[Github]](https://github.com/ZYMCCX/LiteSAR-Net)
 
         - Yimin Zhang, **<u>Chuxuan Chen</u>**(Co-first author), Ronglin Hu, Yongtao Yu
         
           **ESarDet: An Efficient SAR Ship Detection Method Based on Context Information and Large Effective Receptive Field**
         
-          *Remote Sening, 2023.* [[DOI]](https://www.mdpi.com/2072-4292/15/12/3018) [[Github]](https://github.com/ZYMCCX/LiteSAR-Net)
+          *Remote Sening, 2023.* [[DOI]](https://www.mdpi.com/2072-4292/15/12/3018) [[Github]](https://github.com/ZYMCCX/ESarDet)
         
         - Yimin Zhang, **<u>Chuxuan Chen</u>**(Co-first author), Ronglin Hu
         
